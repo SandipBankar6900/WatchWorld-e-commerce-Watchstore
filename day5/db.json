@@ -1,0 +1,154 @@
+{
+  "watches": [
+    {
+      "id": "1",
+      "brand": "TimeMaster",
+      "model": "ChronoMax Pro",
+      "price": 249.99,
+      "movement": "Quartz",
+      "case_material": "Stainless Steel",
+      "strap_material": "Genuine Leather",
+      "water_resistance": "50 meters",
+      "dial_color": "Black",
+      "case_diameter": "42mm",
+      "case_thickness": "11mm",
+      "image_url": "https://m.media-amazon.com/images/I/81jdZHfWFzL._UX466_.jpg"
+      
+    },
+    {
+      "id": "2",
+      "brand": "Elegant Timepieces",
+      "model": "Classic Rose",
+      "price": 179.95,
+      "movement": "Automatic",
+      "case_material": "Rose Gold",
+      "strap_material": "Stainless Steel",
+      "water_resistance": "30 meters",
+      "dial_color": "White",
+      "case_diameter": "38mm",
+      "case_thickness": "9mm",
+      "image_url": "https://m.media-amazon.com/images/I/71Xuh4N+7VL._AC_UY1000_.jpg"
+      
+    },
+    {
+      "id": "3",
+      "brand": "SportsTech",
+      "model": "Endurance Pro",
+      "price": 129.00,
+      "movement": "Digital",
+      "case_material": "Polymer",
+      "strap_material": "Silicone",
+      "water_resistance": "100 meters",
+      "dial_color": "Blue",
+      "case_diameter": "45mm",
+      "case_thickness": "14mm",
+      "image_url": "https://m.media-amazon.com/images/I/81QKH19aOQL._UL1500_.jpg"
+      
+    },
+    {
+      "id": "4",
+      "brand": "Urban Chic",
+      "model": "Sleek Black",
+      "price": 89.50,
+      "movement": "Quartz",
+      "case_material": "Alloy",
+      "strap_material": "Nylon",
+      "water_resistance": "30 meters",
+      "dial_color": "Black",
+      "case_diameter": "40mm",
+      "case_thickness": "8mm",
+      "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/411/411848/411848_10_600.jpeg?auto=webp"
+      
+    },
+    {
+      "id": "5",
+      "brand": "LuxuryWear",
+      "model": "Diamond Elegance",
+      "price": 599.00,
+      "movement": "Automatic",
+      "case_material": "18K Gold",
+      "strap_material": "Crocodile Leather",
+      "water_resistance": "50 meters",
+      "dial_color": "Silver",
+      "case_diameter": "39mm",
+      "case_thickness": "10mm",
+      "image_url": "https://m.media-amazon.com/images/I/71PkPmnClvL._AC_UY1000_.jpg"
+      
+    },
+    {
+      "id": "6",
+      "brand": "TechFusion",
+      "model": "SmartGlow",
+      "price": 199.99,
+      "movement": "Smartwatch",
+      "case_material": "Titanium",
+      "strap_material": "Silicone",
+      "water_resistance": "50 meters",
+      "dial_color": "Digital",
+      "case_diameter": "44mm",
+      "case_thickness": "12mm",
+      "image_url": "https://m.media-amazon.com/images/I/71e2FizA-zL.jpg"
+      
+    },
+    {
+      "id": "7",
+      "brand": "Vintage Style Co.",
+      "model": "Retro Masterpiece",
+      "price": 299.95,
+      "movement": "Mechanical",
+      "case_material": "Stainless Steel",
+      "strap_material": "Genuine Leather",
+      "water_resistance": "30 meters",
+      "dial_color": "Cream",
+      "case_diameter": "41mm",
+      "case_thickness": "10mm",
+      "image_url": "https://images-cdn.ubuy.co.in/634ebf1751edfc65aa5b46d4-onola-vintage-style-mens-watch-gold.jpg"
+      
+    },
+    {
+      "id": "8",
+      "brand": "AquaSport",
+      "model": "Diver's Pro",
+      "price": 179.00,
+      "movement": "Quartz",
+      "case_material": "Stainless Steel",
+      "strap_material": "Rubber",
+      "water_resistance": "200 meters",
+      "dial_color": "Blue",
+      "case_diameter": "43mm",
+      "case_thickness": "13mm",
+      "image_url": "https://m.media-amazon.com/images/I/7191zgbX2zL._AC_UY1000_.jpg"
+      
+    },
+    {
+      "id": "9",
+      "brand": "FashionForward",
+      "model": "Chic Rose Gold",
+      "price": 129.50,
+      "movement": "Quartz",
+      "case_material": "Rose Gold",
+      "strap_material": "Mesh",
+      "water_resistance": "30 meters",
+      "dial_color": "Pink",
+      "case_diameter": "36mm",
+      "case_thickness": "8mm",
+      "image_url": "https://m.media-amazon.com/images/I/81XUxsYK33L._AC_UY1000_.jpg"
+      
+    },
+    {
+      "id": "10",
+      "brand": "Aviator",
+      "model": "SkyMaster",
+      "price": 249.00,
+      "movement": "Automatic",
+      "case_material": "Titanium",
+      "strap_material": "Nylon",
+      "water_resistance": "100 meters",
+      "dial_color": "Black",
+      "case_diameter": "42mm",
+      "case_thickness": "11mm",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51nwlTGhiEL.jpg"
+      
+    }
+  ]
+}
