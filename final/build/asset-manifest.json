@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.a122c5a8.js",
+    "static/js/787.6969f8e0.chunk.js": "/static/js/787.6969f8e0.chunk.js",
+    "static/media/Watchworld.png": "/static/media/Watchworld.357aa40afda28444cefc.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.a122c5a8.js.map": "/static/js/main.a122c5a8.js.map",
+    "787.6969f8e0.chunk.js.map": "/static/js/787.6969f8e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a122c5a8.js"
+  ]
+}
